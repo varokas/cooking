@@ -1,0 +1,22 @@
+{
+  "name": "cooking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varokas/cooking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varokas/cooking/issues"
+  },
+  "homepage": "https://github.com/varokas/cooking#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
